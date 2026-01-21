@@ -1,0 +1,15 @@
+# Coverage files
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
